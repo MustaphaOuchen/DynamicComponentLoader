@@ -8,7 +8,7 @@ Examples how to add components dynamically aka at runtime (e.g. like ads)
 - Defining and setting up a directive which is used to load the dynamic component (src\app\ad-banner.component.ts && src\app\ad-item.ts)
 - Using a common interface for the dynamic components (src\app\ad.component.ts)
 - Creating dynamic components (src\app\hero-profile.component.ts && src\app\hero-job-ad.component.ts)
-- Using a service with dependency injection to create the dynamic component instances
+- Using a service with dependency injection to create the dynamic component instances (src\app\ad.service.ts)
 
 
 ## Angular Info
